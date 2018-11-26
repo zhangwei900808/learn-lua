@@ -5,3 +5,4 @@ end
 a3["key"] = "val"
 print(a3["key"])
 print(a3["none"])
+print('this is test text')
